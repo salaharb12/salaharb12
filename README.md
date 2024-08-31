@@ -1,11 +1,4 @@
-# 👋 Hi, I’m Salah Eddine Arbani
-### 😄 Pronouns: - He/Him
-
-🔭 I’m a full-stack developer with a focus on **React.js**, **Next.js**,**Laravel** and **typescript**.
-
-🤝 I’m looking to collaborate on **innovative projects**, **open-source contributions**, and **next.js development**.
-
-🌱 I’m currently diving into **advanced TypeScript**, **Next.js 14**, and **web application security** while exploring **UI/UX design** and **new technologies**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+I+am+salah+eddine+arbani;Full+Stack+Web+Developer;Cross-Platform+Developer;Continuously+expanding+my+knowledge.)](https://git.io/typing-svg)
 
 ## 📫 How to reach me:
 - Email: salah.arb09@gmail.com
