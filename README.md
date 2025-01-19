@@ -91,9 +91,14 @@
 
 ## 📊 GitHub Stats:
 
-![Salah's GitHub stats](https://github-readme-stats.vercel.app/api?username=salaharb12&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula)
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=salaharb12&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salaharb12&layout=compact&theme=dracula&hide_border=true)
+![Salah's GitHub stats](https://github-readme-stats.vercel.app/api?username=salaharb12&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula)  
+
+![salaharb12's Stats](https://github-readme-stats.vercel.app/api?username=salaharb12&theme=dracula&show_icons=true&hide_border=true&count_private=true)  
+
+![salaharb12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=salaharb12&theme=dracula&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salaharb12&layout=compact&theme=dracula&hide_border=true)  
+
 
 ## 🏆 GitHub Trophies:
 
